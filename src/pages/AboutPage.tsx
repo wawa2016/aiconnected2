@@ -188,7 +188,7 @@ function AboutPage() {
                     href="mailto:contact@aichat.com"
                     className="text-white/90 hover:text-white transition"
                   >
-                    aiagents@plwaw.com
+                    aiconnected@plwaw.com
                   </a>
                 </div>
               </div>
